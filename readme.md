@@ -1,4 +1,4 @@
-# Django custom signals
+# Django Custom Signals
 signals.py
 ```python
 from django.dispatch import Signal, receiver
