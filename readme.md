@@ -1,3 +1,4 @@
+# Django custom signals
 signals.py
 ```python
 from django.dispatch import Signal, receiver
@@ -32,3 +33,4 @@ urlpatterns = [
     path('', views.home),
 ]
 ```
+# 
