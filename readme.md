@@ -33,4 +33,4 @@ urlpatterns = [
     path('', views.home),
 ]
 ```
-# 
+# Happy Learning
